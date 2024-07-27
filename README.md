@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Monisha Murthy
 - Enthusiastic and passionate about diving into Machine Learning and Deep Learning.
 - 🌱 I’m currently learning Deep Learning
-- 💞️ I’m looking to collaborate on simple ML Prjects
+- 💞️ I’m looking to collaborate on simple ML Projects
 - 📫 How to reach me monishamurthy22@gmail.com
 - ⚡ Fun fact I can draw pretty well.
 
