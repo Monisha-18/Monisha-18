@@ -1,11 +1,27 @@
-- 👋 Hi, I’m Monisha Murthy
-- Enthusiastic and passionate about diving into Machine Learning and Deep Learning.
-- 🌱 I’m currently learning Deep Learning
-- 💞️ I’m looking to collaborate on simple ML Projects
-- 📫 How to reach me monishamurthy22@gmail.com
-- ⚡ Fun fact I can draw pretty well.
+<h1 align="center">✨ Monisha Murthy ✨</h1>
 
-<!---
-Monisha-18/Monisha-18 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+<p align="center">
+  👩‍💻 ML Explorer | 🎨 Sketch Artist | 🔍 Always Curious  
+</p>
+
+---
+
+🌟 *“Some people look for a beautiful place. I make a place beautiful with code and creativity.”*  
+
+---
+
+## 🧠 About Me
+
+```python
+class MonishaMurthy:
+    def __init__(self):
+        self.role = "Machine Learning Enthusiast"
+        self.learning = ["Deep Learning", "CNNs", "NLP"]
+        self.hobbies = ["Sketching", "Solving Puzzles", "Learning New Tech"]
+        self.email = "monishamurthy22@gmail.com"
+
+    def collaboration_interest(self):
+        return ["Simple ML Projects", "AI-powered apps", "Research-based mini projects"]
+
+    def fun_fact(self):
+        return "I can draw just as well as I can build ML models 😄"
